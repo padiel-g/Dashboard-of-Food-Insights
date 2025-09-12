@@ -1,0 +1,101 @@
+Date,Region,Crop,Yield (kg/ha),Price (USD/kg),Commodity,Household ID,FCS,Income Source,Aid Access
+2025-06,Zaka,Maize,1800,0.8,Maize Meal,HH001,23,Remittances,Yes
+2023-06,Rusape,Groundnuts,500,0.8,Groundnut Paste,HH002,31,Remittances,No
+2023-06,Mazowe,Groundnuts,120,0.45,Groundnut Paste,HH003,39,Casual Labor,Yes
+2025-06,Mhondoro,Beans,1800,0.6,Dried Beans,HH004,22,Casual Labor,Yes
+2024-06,Muzarabani,Sunflower,500,0.45,Sunflower Oil,HH005,35,Trading,Yes
+2025-06,Mazowe,Beans,1800,0.6,Dried Beans,HH006,35,Trading,Yes
+2025-06,Chinhoyi,Sunflower,2000,0.5,Sunflower Oil,HH007,23,Casual Labor,Yes
+2022-05,Mazowe,Beans,2000,0.6,Dried Beans,HH008,54,Trading,Yes
+2024-06,Muzarabani,Groundnuts,2000,0.8,Groundnut Paste,HH009,34,Casual Labor,No
+2025-06,Chihvu,Groundnuts,1500,0.8,Groundnut Paste,HH010,47,Remittances,No
+2023-06,Mazowe,Sorghum,2000,0.6,Sorghum Meal,HH011,58,Casual Labor,No
+2023-06,Mhondoro,Sorghum,120,0.6,Sorghum Meal,HH012,34,Casual Labor,No
+2022-05,Chihvu,Maize,2000,0.5,Maize Meal,HH013,54,Farming,Yes
+2022-05,Chipinge,Sorghum,2000,0.8,Sorghum Meal,HH014,55,Trading,Yes
+2025-06,Chinhoyi,Groundnuts,1500,0.8,Groundnut Paste,HH015,50,Remittances,Yes
+2025-06,Chinhoyi,Sorghum,1500,0.5,Sorghum Meal,HH016,21,Trading,No
+2022-05,Gokwe,Beans,120,0.6,Dried Beans,HH017,54,Trading,No
+2025-06,Chihvu,Sorghum,1800,0.45,Sorghum Meal,HH018,17,Trading,Yes
+2022-05,Rusape,Sorghum,1500,0.8,Sorghum Meal,HH019,46,Trading,No
+2023-06,Chipinge,Groundnuts,500,0.6,Groundnut Paste,HH020,25,Casual Labor,Yes
+2025-06,Rusape,Beans,1800,0.6,Dried Beans,HH021,58,Casual Labor,Yes
+2023-06,Chinhoyi,Maize,1800,0.5,Maize Meal,HH022,41,Farming,No
+2025-06,Muzarabani,Wheat,4000,0.45,Wheat Flour,HH023,29,Trading,No
+2022-05,Rusape,Maize,4000,0.5,Maize Meal,HH024,34,Casual Labor,No
+2024-06,Chivi,Groundnuts,500,0.6,Groundnut Paste,HH025,17,Farming,No
+2024-06,Zaka,Sorghum,2000,0.6,Sorghum Meal,HH026,51,Casual Labor,Yes
+2024-06,Mvuma,Sunflower,2000,0.45,Sunflower Oil,HH027,54,Trading,No
+2023-06,Gokwe,Sorghum,4000,0.5,Sorghum Meal,HH028,58,Farming,Yes
+2022-05,Mhondoro,Beans,4000,0.6,Dried Beans,HH029,31,Farming,No
+2024-06,Chivi,Groundnuts,120,0.8,Groundnut Paste,HH030,49,Remittances,No
+2022-05,Muzarabani,Maize,1800,0.8,Maize Meal,HH031,36,Remittances,No
+2023-06,Zaka,Sorghum,1500,0.8,Sorghum Meal,HH032,37,Remittances,Yes
+2024-06,Gokwe,Sorghum,2000,0.8,Sorghum Meal,HH033,31,Farming,No
+2025-06,Gweru,Maize,120,0.6,Maize Meal,HH034,33,Remittances,Yes
+2024-06,Zaka,Groundnuts,1800,0.8,Groundnut Paste,HH035,56,Remittances,Yes
+2023-06,Chinhoyi,Sorghum,2000,0.5,Sorghum Meal,HH036,21,Trading,No
+2024-06,Uzumba,Groundnuts,1800,0.45,Groundnut Paste,HH037,26,Remittances,Yes
+2022-05,Chivi,Beans,500,0.6,Dried Beans,HH038,27,Farming,No
+2022-05,Uzumba,Sunflower,1500,0.5,Sunflower Oil,HH039,43,Remittances,Yes
+2024-06,Chivi,Wheat,4000,0.5,Wheat Flour,HH040,27,Casual Labor,Yes
+2022-05,Chivi,Sorghum,500,0.5,Sorghum Meal,HH041,49,Remittances,No
+2025-06,Muzarabani,Sorghum,4000,0.45,Sorghum Meal,HH042,56,Casual Labor,Yes
+2024-06,Mhondoro,Groundnuts,500,0.6,Groundnut Paste,HH043,48,Casual Labor,No
+2023-06,Chipinge,Wheat,1800,0.5,Wheat Flour,HH044,39,Trading,Yes
+2023-06,Rusape,Maize,500,0.5,Maize Meal,HH045,23,Casual Labor,Yes
+2023-06,Uzumba,Maize,4000,0.5,Maize Meal,HH046,45,Casual Labor,Yes
+2022-05,Gokwe,Maize,500,0.8,Maize Meal,HH047,17,Farming,No
+2024-06,Chinhoyi,Beans,2000,0.6,Dried Beans,HH048,52,Trading,No
+2023-06,Mvuma,Beans,4000,0.8,Dried Beans,HH049,57,Farming,Yes
+2023-06,Mhondoro,Groundnuts,500,0.5,Groundnut Paste,HH050,26,Remittances,No
+2023-06,Uzumba,Maize,2000,0.5,Maize Meal,HH051,30,Farming,No
+2025-06,Mvuma,Sunflower,1500,0.45,Sunflower Oil,HH052,29,Remittances,Yes
+2022-05,Chipinge,Sorghum,1800,0.8,Sorghum Meal,HH053,53,Farming,No
+2024-06,Chipinge,Sunflower,500,0.45,Sunflower Oil,HH054,50,Remittances,Yes
+2022-05,Chihvu,Beans,4000,0.6,Dried Beans,HH055,44,Remittances,Yes
+2024-06,Chipinge,Sorghum,2000,0.45,Sorghum Meal,HH056,17,Casual Labor,No
+2022-05,Zaka,Sunflower,1800,0.5,Sunflower Oil,HH057,36,Trading,No
+2023-06,Chivi,Beans,1800,0.8,Dried Beans,HH058,38,Casual Labor,Yes
+2023-06,Chipinge,Maize,120,0.45,Maize Meal,HH059,40,Farming,Yes
+2022-05,Mhondoro,Sunflower,500,0.8,Sunflower Oil,HH060,47,Remittances,Yes
+2023-06,Uzumba,Maize,2000,0.45,Maize Meal,HH061,25,Farming,Yes
+2025-06,Muzarabani,Sorghum,120,0.6,Sorghum Meal,HH062,23,Remittances,Yes
+2023-06,Chihvu,Sunflower,4000,0.6,Sunflower Oil,HH063,46,Trading,Yes
+2024-06,Mvuma,Groundnuts,2000,0.8,Groundnut Paste,HH064,19,Farming,Yes
+2025-06,Chivi,Sunflower,1800,0.6,Sunflower Oil,HH065,58,Casual Labor,Yes
+2023-06,Chivi,Groundnuts,1800,0.8,Groundnut Paste,HH066,41,Casual Labor,No
+2023-06,Zaka,Maize,120,0.5,Maize Meal,HH067,41,Remittances,No
+2023-06,Gokwe,Wheat,2000,0.8,Wheat Flour,HH068,52,Casual Labor,No
+2022-05,Muzarabani,Groundnuts,120,0.8,Groundnut Paste,HH069,16,Remittances,Yes
+2022-05,Mhondoro,Wheat,4000,0.5,Wheat Flour,HH070,44,Farming,Yes
+2024-06,Rusape,Maize,2000,0.5,Maize Meal,HH071,46,Remittances,No
+2024-06,Chinhoyi,Groundnuts,4000,0.8,Groundnut Paste,HH072,38,Remittances,No
+2022-05,Muzarabani,Groundnuts,1500,0.5,Groundnut Paste,HH073,25,Remittances,Yes
+2022-05,Mazowe,Wheat,1500,0.45,Wheat Flour,HH074,39,Farming,Yes
+2023-06,Uzumba,Wheat,500,0.6,Wheat Flour,HH075,19,Remittances,Yes
+2025-06,Chihvu,Wheat,120,0.6,Wheat Flour,HH076,36,Remittances,No
+2025-06,Muzarabani,Groundnuts,2000,0.5,Groundnut Paste,HH077,59,Farming,No
+2025-06,Chipinge,Sorghum,120,0.8,Sorghum Meal,HH078,31,Farming,Yes
+2024-06,Zaka,Beans,500,0.45,Dried Beans,HH079,44,Remittances,No
+2024-06,Gweru,Groundnuts,2000,0.5,Groundnut Paste,HH080,20,Trading,No
+2023-06,Mhondoro,Groundnuts,500,0.45,Groundnut Paste,HH081,50,Remittances,Yes
+2025-06,Mvuma,Sunflower,120,0.5,Sunflower Oil,HH082,31,Casual Labor,No
+2023-06,Zaka,Sorghum,4000,0.45,Sorghum Meal,HH083,58,Farming,No
+2022-05,Uzumba,Maize,500,0.45,Maize Meal,HH084,38,Remittances,Yes
+2025-06,Gweru,Sunflower,1800,0.5,Sunflower Oil,HH085,48,Farming,Yes
+2025-06,Chipinge,Beans,2000,0.5,Dried Beans,HH086,32,Casual Labor,Yes
+2022-05,Zaka,Sunflower,120,0.8,Sunflower Oil,HH087,15,Remittances,No
+2023-06,Muzarabani,Sunflower,1800,0.45,Sunflower Oil,HH088,49,Remittances,No
+2025-06,Chipinge,Groundnuts,4000,0.6,Groundnut Paste,HH089,54,Casual Labor,No
+2025-06,Gweru,Wheat,500,0.8,Wheat Flour,HH090,15,Farming,No
+2024-06,Chipinge,Sunflower,1800,0.45,Sunflower Oil,HH091,30,Remittances,No
+2023-06,Chinhoyi,Beans,2000,0.45,Dried Beans,HH092,40,Farming,No
+2025-06,Chipinge,Beans,4000,0.8,Dried Beans,HH093,43,Farming,No
+2022-05,Mvuma,Wheat,1500,0.6,Wheat Flour,HH094,19,Farming,Yes
+2023-06,Gweru,Beans,120,0.8,Dried Beans,HH095,52,Casual Labor,No
+2025-06,Mhondoro,Wheat,120,0.5,Wheat Flour,HH096,41,Trading,No
+2024-06,Zaka,Wheat,500,0.8,Wheat Flour,HH097,35,Farming,Yes
+2024-06,Mhondoro,Maize,120,0.8,Maize Meal,HH098,43,Remittances,No
+2023-06,Zaka,Wheat,4000,0.5,Wheat Flour,HH099,40,Trading,No
+2022-05,Gokwe,Sorghum,1500,0.6,Sorghum Meal,HH100,29,Remittances,Yes
