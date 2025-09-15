@@ -16,7 +16,7 @@ def load_data():
     """
     try:
        
-        df = pd.read_csv(r"C:\Users\cyphe\Desktop\zimra\food_security_dashboard_sample.csv")
+        df = pd.read_csv("food_security_dashboard_sample.csv")
         
         # Data preprocessing
         df['Date'] = pd.to_datetime(df['Date'], format='%Y-%m')
